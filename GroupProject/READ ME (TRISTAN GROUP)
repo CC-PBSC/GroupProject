@@ -1,0 +1,40 @@
+# Dictionary Operations Program
+
+## Overview
+
+This Python program was developed as part of a group assignment to demonstrate the use of dictionaries, data types, and data structures covered in Module 7. It allows users to interact with a dictionary using a switch-style menu and perform various operations such as adding, removing, displaying, and sorting key-value pairs.
+
+## Features
+
+The program provides the following functionality:
+
+1. **Populate the Dictionary**  
+   - Add multiple key-value pairs to the dictionary as determined by the user.
+
+2. **Display Dictionary Contents**  
+   - Choose one of three different methods (using `items()`, using `keys()`/`values()`, or using a loop) to display the contents.
+
+3. **Remove a Key**  
+   - Remove a specified key from the dictionary.
+
+4. **Add a New Key and Value**  
+   - Insert a new key-value pair into the dictionary.
+
+5. **Add a Value to an Existing Key**  
+   - Append a new value to an existing key (string concatenation is used).
+
+6. **Sort the Keys**  
+   - Display dictionary keys and values in sorted key order.
+
+7. **Exit**  
+   - Exit the program.
+
+## How to Run
+
+1. Make sure Python 3 is installed on your system.
+2. Clone this repository or download the `dictionary_app.py` file.
+3. Open a terminal or command prompt.
+4. Run the script using:
+
+```bash
+python dictionary_app.py
